@@ -6,5 +6,7 @@ The project was created using C# and the Unity platform. My task was to design a
 
 Here is the link to access the game download: https://anagordon.itch.io/beyond-light
 
+Here is the link to the repo: https://github.com/Tatok-n/McGameJam2024
+
 
 
